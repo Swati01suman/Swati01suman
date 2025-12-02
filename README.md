@@ -26,19 +26,7 @@
 
 ---
 
-## 🔥 Projects
 
-### **Text-Generative AI**
-- **Tech**: Python, Google Gemini API  
-- Built a text-generative tool that can **generate content on any topic** and **auto-correct grammar**  
-- Integrated **Google Gemini API** with Python for seamless results  
-
-### **Blood Donation Management System**
-- **Tech**: HTML, CSS, JavaScript  
-- Developed a **blood donation portal** to find nearby camps, blood banks, and related events  
-- Aimed at making blood donation search **easier and faster**  
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
