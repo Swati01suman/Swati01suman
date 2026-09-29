@@ -15,7 +15,7 @@
 - 🎓 Pursuing **B.Tech in CSE** @ SISTec-R, Bhopal *(2024 – 2027)* | CGPA: 7.33
 - 🎓 Completed **Diploma in CSE** @ New Government Polytechnic, Patna *(2020 – 2024)* | CGPA: 8.75
 - ☁️ Passionate about **Cloud, DevOps & building full-stack + AI-powered applications**
-- 🏗️ Built and deployed apps using **FastAPI, React.js, Docker, Kubernetes on AWS EC2**
+- 🏗️ Built and deployed apps using **FastAPI, React.js, Docker, Kubernetes, GitHub Action**
 - 📫 Reach me: **swatisuman10000@gmail.com** | [LinkedIn](https://www.linkedin.com/in/swati-suman777) | [Credly](https://www.credly.com)
 
 ---
