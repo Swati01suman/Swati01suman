@@ -15,7 +15,7 @@
 - 🎓 Pursuing **B.Tech in CSE** @ SISTec-R, Bhopal *(2024 – 2027)* | CGPA: 7.33
 - 🎓 Completed **Diploma in CSE** @ New Government Polytechnic, Patna *(2020 – 2024)* | CGPA: 8.75
 - ☁️ Passionate about **Cloud, DevOps & building full-stack + AI-powered applications**
-- 🏗️ Built and deployed apps using **FastAPI, React.js, Docker, Kubernetes, GitHub Action**
+- 🏗️ Deployed apps using **Linux, Docker, Kubernetes, GitHub Action, AWS**
 - 📫 Reach me: **swatisuman10000@gmail.com** | [LinkedIn](https://www.linkedin.com/in/swati-suman777) | [Credly](https://www.credly.com)
 
 ---
@@ -34,7 +34,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -42,10 +42,10 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![kali, Ubuntu](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Networking
