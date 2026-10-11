@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in CSE** @ SISTec-R, Bhopal *(2024 – 2027)* | CGPA: 7.33
+- 🎓 Pursuing **B.Tech in CSE** @ SISTec-R, Bhopal *(2024 – 2027)* | CGPA: 7.06
 - 🎓 Completed **Diploma in CSE** @ New Government Polytechnic, Patna *(2020 – 2024)* | CGPA: 8.75
 - ☁️ Passionate about **Cloud, DevOps & building full-stack + AI-powered applications**
 - 🏗️ Deployed apps using **Linux, Docker, Kubernetes, GitHub Action, AWS**
